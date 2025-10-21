@@ -1,0 +1,5 @@
+Weapon Detection using Deep Learning.
+
+Algorithm / Model Used: YOLOv8 Architecture.
+
+Overall Accuracy=64%.
